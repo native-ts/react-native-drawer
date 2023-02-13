@@ -1,0 +1,10 @@
+{
+  "name": "@native-ts/drawer",
+  "version": "1.0.0",
+  "private": false,
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "repository": "git@github.com:native-ts/react-native-common.git",
+  "author": "Canh Nguyen <ngvcanh.dev@gmail.com>",
+  "license": "MIT"
+}
